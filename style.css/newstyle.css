@@ -1,0 +1,39 @@
+*{
+    margin: 5px;
+}
+.blog{
+    background-color: skyblue;
+    border: 7px solid rgb(4, 40, 81);
+    border-radius: 30px;
+    margin: 10px 0px 10px;
+    padding: 20px 5px ;
+    box-shadow: 10px 10px 10px silver;
+    text-align: justify;
+    width: 90%;
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.maxime{
+    border: 2px solid red;
+    /* display: block;
+    height: 200px; */
+    box-shadow: 2px 2px solid rebeccapurple;
+
+}
+header{
+    text-align: center;
+    margin: 50px 10px 50px;
+    font-size: 26px;
+    block-size: 200px;
+    background-image: url('stock-photo-happy-tourist-asian-girl-taking-selfie-photos-for-her-travel-blog-in-dubai-downtown-2298151205.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+/* background-size: contain; */
+/* background-size: 200px; */
+background-size: 100%
+
+
+}
